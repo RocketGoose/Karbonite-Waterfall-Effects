@@ -19,7 +19,7 @@ Required:
 INSTALLATION
 ============
 
-To install, place the GameData folder inside your Kerbal Space Program folder. If asked to overwrite files, please do so.
+To install, place the GoosePatches folder inside your GameData folder. If asked to overwrite files, please do so.
 
 LICENSING
 =========
